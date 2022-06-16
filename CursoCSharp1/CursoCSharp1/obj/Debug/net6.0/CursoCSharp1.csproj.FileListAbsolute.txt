@@ -1,0 +1,15 @@
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.csproj.AssemblyReference.cache
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.AssemblyInfoInputs.cache
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.AssemblyInfo.cs
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.csproj.CoreCompileInputs.cache
+F:\repos\CursoCSharp1\CursoCSharp1\bin\Debug\net6.0\CursoCSharp1.exe
+F:\repos\CursoCSharp1\CursoCSharp1\bin\Debug\net6.0\CursoCSharp1.deps.json
+F:\repos\CursoCSharp1\CursoCSharp1\bin\Debug\net6.0\CursoCSharp1.runtimeconfig.json
+F:\repos\CursoCSharp1\CursoCSharp1\bin\Debug\net6.0\CursoCSharp1.dll
+F:\repos\CursoCSharp1\CursoCSharp1\bin\Debug\net6.0\CursoCSharp1.pdb
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.dll
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\refint\CursoCSharp1.dll
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.pdb
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\CursoCSharp1.genruntimeconfig.cache
+F:\repos\CursoCSharp1\CursoCSharp1\obj\Debug\net6.0\ref\CursoCSharp1.dll
